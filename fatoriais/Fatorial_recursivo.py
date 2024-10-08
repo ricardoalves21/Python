@@ -9,3 +9,5 @@ def fatorial_recursivo(n):
         return n * fatorial_recursivo(n-1)
 
 print(fatorial_recursivo(5)) # resultado: 120
+
+# desenvolver a sequencia de fibonaty
