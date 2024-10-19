@@ -10,4 +10,4 @@ def fatorial_iterativo(n):
             fat *= i
         return fat
 
-print(fatorial_iterativo(5)) # resultado: 120
+print(fatorial_iterativo(4)) # resultado: 120
